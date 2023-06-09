@@ -47,11 +47,3 @@ pip install requests
 pip install pycrypto
 
 --installing pywin32==304 wont work as it only installs on windows, the code will check the os and run parts of code accordingly--
-
-Education:
-"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching scholarship, and research. Fair use is a use permitted by copyright statutes that might otherwise be infringing. Non-profit, educational, or personal use tips the balance in favor of fair use."
-
-Legal:
-The author does not hold any responsibility for any harmful or illegal use of this took, you are responsible for your own actions. Attacking targets without prior consent is illegal and is punishable by the law.
-
-programmed by https://github.com/BasedGamer01/
